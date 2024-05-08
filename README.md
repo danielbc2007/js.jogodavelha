@@ -1,1 +1,1 @@
-# js.jogodavelha
+# Um jogo da velha usando JavaScript
